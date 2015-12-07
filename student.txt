@@ -1,0 +1,8 @@
+1234123 PepsiMan 3.95
+12341234 JoeBlow  2.2
+11111111 SusieSmith 1.9
+2222222 DonaldDuck 3.8
+43214328 DaffyDuck 3.0
+12312311 ActualStudent 3.6
+5555558 AnotherStudent 1.1
+5555558 LastStudent 4.0
